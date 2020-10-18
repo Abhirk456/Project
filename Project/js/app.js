@@ -19,4 +19,5 @@ addBtn.addEventListener("Click",function(e){
      addTxt.value="";
      console.log(notesObj)
      
+
 })
